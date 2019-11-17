@@ -169,9 +169,9 @@
 			"generator": {
 				"block": "gold_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 9
+				"cluster-size": 12
 			},
-			"cluster-count": 2,
+			"cluster-count": 3,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": false,
@@ -211,9 +211,9 @@
 			"generator": {
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 12
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"min-height": 0,
 			"max-height": 16,
 			"retrogen": false,
@@ -234,7 +234,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 7
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,
@@ -294,7 +294,7 @@
 					"name": "emerald_ore"
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 2
 			},
 			"cluster-count": {
 				"min": 3,
