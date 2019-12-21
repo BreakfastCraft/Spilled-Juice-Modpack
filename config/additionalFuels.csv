@@ -1,0 +1,12 @@
+fuel_dense,4,2
+fuel_light,2,16
+fuel_gaseous,1,8
+heavy_oil,5,2
+light_oil,2,12
+naphtha,1,10
+lpg,1,6
+wood_gas,1,4
+natural_gas,1,6
+biodiesel,4,3
+biofuel,3,3
+syngas,1,10

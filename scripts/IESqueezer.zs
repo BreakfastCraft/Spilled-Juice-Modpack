@@ -1,0 +1,12 @@
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <xlfoodmod:corn_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <xlfoodmod:rice_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <xlfoodmod:pepper_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <xlfoodmod:cucumber_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <xlfoodmod:lettuce_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <xlfoodmod:tomato_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <xlfoodmod:strawberry_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <rustic:grape_stem>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <rustic:apple_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <rustic:tomato_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <rustic:chili_pepper_seeds>, 80);
+mods.immersiveengineering.Squeezer.addRecipe(null, <liquid:plantoil> * 80, <rusticthaumaturgy:cindermote_seeds>, 80);
