@@ -1,0 +1,1 @@
+mods.immersiveengineering.MetalPress.addRecipe(<ic2:crafting:3>, <ic2:ingot>, <immersiveengineering:mold>, 1024);
