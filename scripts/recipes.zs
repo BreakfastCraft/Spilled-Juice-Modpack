@@ -12,6 +12,8 @@ recipes.removeShaped(<literalascension:gold_carving_tool>, [[null, null, <ore:in
 
 //Don't touch me!
 //#Add
+recipes.addShaped(<minecraft:redstone>, [[<projectred-core:resource_item:105>, null, null],[null, null, null], [null, null, null]]);
+
 recipes.addShaped(<immersiveengineering:wirecoil>*4, [[<ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte}), <ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte}), <ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte})],[<ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte}), <immersiveengineering:material>, <ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte})],[<ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte}), <ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte}), <ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte})]]);
 recipes.addShaped(<advgenerators:iron_frame> *2, [[null, <ore:ingotIron>, null], [<ore:ingotIron>, <minecraft:iron_bars>, <ore:ingotIron>], [null, <ore:ingotIron>, null]]);
 
